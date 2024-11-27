@@ -1,8 +1,8 @@
 # Documentación del Proyecto
 
-#He creado el repositorio y he hecho los cambios desde Termianl de POwershell.
+#He creado el repositorio y he hecho los cambios desde Terminal de Powershell.
 
-#Primero instalo La herramienta de terminal de GIT
+#Primero instalo la herramienta de terminal de GIT
 winget install --id GitHub.cli
 ![Captura instalando herramienta CLI](./images/1.png)
 
